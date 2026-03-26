@@ -27,7 +27,8 @@ Aqui está uma simples tabela, númerada da primeira aula até a última aula co
 | Trabalhando com Strings | 05 | ✅ |
 | JSON | 06 | ✅ |
 | Arrays | 07 | ✅ |
-| 
+| Orientação a Objetos | 08 | ✅ |
+|
 
 **Legenda de Status:** ✅ Concluído | 📝 Em Revisão/Desenvolvimento | ❌ Pendente
 
