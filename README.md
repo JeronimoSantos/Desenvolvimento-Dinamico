@@ -25,7 +25,9 @@ Aqui está uma simples tabela, númerada da primeira aula até a última aula co
 | Operadores e operações | 03 | ✅ |
 | Instruções e repetição | 04 | ✅ |
 | Trabalhando com Strings | 05 | ✅ |
-|
+| JSON | 06 | ✅ |
+| Arrays | 07 | ✅ |
+| 
 
 **Legenda de Status:** ✅ Concluído | 📝 Em Revisão/Desenvolvimento | ❌ Pendente
 
